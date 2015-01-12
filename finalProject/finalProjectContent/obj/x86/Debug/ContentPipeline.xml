@@ -3,10 +3,19 @@
   <Asset Type="Pipeline:BuildItemCollection">
     <Item>
       <Source>background.xcf</Source>
-      <Name>background</Name>
+      <Name>backgroundP</Name>
       <Importer>TextureImporter</Importer>
       <Options>None</Options>
-      <Output>C:\Users\eahscs\Documents\GitHub\finalProject\finalProject\finalProject\bin\x86\Debug\Content\background.xnb</Output>
+      <Output>C:\Users\alexadb123\Documents\GitHub\finalproject\finalProject\finalProject\bin\x86\Debug\Content\backgroundP.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\alexadb123\Documents\GitHub\finalproject\finalProject\finalProject\bin\x86\Debug\Content\background.xnb</Output>
       <Time>0001-01-01T00:00:00</Time>
     </Item>
     <BuildSuccessful>false</BuildSuccessful>
@@ -15,10 +24,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\eahscs\Documents\GitHub\finalproject\finalProject\finalProjectContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\eahscs\Documents\GitHub\finalproject\finalProject\finalProject\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\eahscs\Documents\GitHub\finalproject\finalProject\finalProjectContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\eahscs\Documents\GitHub\finalproject\finalProject\finalProject\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\alexadb123\Documents\GitHub\finalproject\finalProject\finalProjectContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\alexadb123\Documents\GitHub\finalproject\finalProject\finalProject\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\alexadb123\Documents\GitHub\finalproject\finalProject\finalProjectContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\alexadb123\Documents\GitHub\finalproject\finalProject\finalProject\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
@@ -47,7 +56,7 @@
       </Assembly>
       <Assembly>
         <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2012-04-18T11:24:14.1308-04:00</Value>
+        <Value>2014-10-13T22:44:24.4679039-04:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>
