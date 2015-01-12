@@ -84,15 +84,7 @@ namespace finalProject
         protected override void Draw(GameTime gameTime)
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
-            spriteBatch.Begin();
-
-
-
-            spriteBatch.Draw();
-            
-                
-                
-            spriteBatch.End();
+           
             base.Draw(gameTime);
 
             
